@@ -1,0 +1,58 @@
+body{
+    background-color: #222d35;
+}
+.nav-custom{
+    background-color: #222d35;
+}
+
+.img{
+    width: 80px;
+    height: 30px;
+}
+
+.nav-link{
+    color: white !important;
+    cursor: pointer;
+}
+
+.nav-items:hover{
+    border-bottom: 1px solid white;
+    padding-bottom: 0;
+}
+
+.icon{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.icon-man{
+    background-color: #79b8f3;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.dropdown-custom{
+    color: white;
+}
+
+.dropdown-custom:hover{
+    color: white;
+}
+
+.subtitle{
+    color: white;
+}
+
+.swiper-slide{
+    cursor: pointer;
+}
+
+.swiper-slide:hover{
+    transform: scale(1.1);
+}
+
+.swiper-slide img{
+    width: 300px;
+    height: 170px;
+}
+
